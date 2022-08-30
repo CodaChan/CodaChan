@@ -3,7 +3,7 @@
 * 🧳 ByteDancer (Internship, base Shanghai, 2022)
 * 🎓 Software Engineering undergraduate at [🏫 SSPU](https://sspu.edu.cn/) (2019 - 2023)
 * 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows)
-* 🎏 Studying English and Japanese
+* 🎏 Chinese by default, Studying English and Japanese
 
 <a href="https://github.com/CodaChan#gh-light-mode-only">
   <div><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,cmake,nodejs,vue,regex,md&theme=light#gh-light-mode-only"></div>
