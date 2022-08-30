@@ -1,9 +1,15 @@
 # 👋 Hi, Coda here.
+
 * 💡 ACMer (🥇 CCPC Guilin 2021 - Gold Medal, 🎖 SSPU ACM Club Coach 2019-2021)
+
 * 🧳 ByteDancer (ByteDance Shanghai, Internship, 2022)
+
 * 🕹 Game Designer (Tencent Institute of Games, Trainee, 2022)
+
 * 🎓 Software Engineering undergraduate at [SSPU](https://sspu.edu.cn/) (2019 - 2023)
-* 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows)
+
+* 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows
+
 * 🌏 English by default, Studying Japanese
 
 <a href="https://github.com/CodaChan#gh-light-mode-only">
