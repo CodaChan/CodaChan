@@ -8,7 +8,7 @@
 
 * 🎓 Software Engineering undergraduate at [SSPU](https://sspu.edu.cn/) (2019 - 2023)
 
-* 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows
+* 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows)
 
 * 🌏 English by default, Studying Japanese
 
