@@ -4,6 +4,7 @@
 * 🧳 ByteDancer (Internship, base Shanghai, 2022)
 * 🎓 Software Engineering undergraduate at [🏫 SSPU](https://sspu.edu.cn/) (2019 - 2023)
 * 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows)
+* 🎏 英語と日本語を勉強中
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Coda's GitHub stats" height="185px">
