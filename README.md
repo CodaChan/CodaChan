@@ -6,8 +6,16 @@
 * 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows)
 * 🎏 Studying English and Japanese
 
-![Coda's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true#gh-light-mode-only)
-![Coda's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
+<a herf="https://github.com/CodaChan#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true#gh-light-mode-only" />
+</a>
+<a herf="https://github.com/CodaChan#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodaChan&layout=compact&langs_count=8&include_all_commits=true#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodaChan&layout=compact&langs_count=8&include_all_commits=true&theme=dark#gh-dark-mode-only)
+<a herf="https://github.com/CodaChan#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodaChan&layout=compact&langs_count=8&include_all_commits=true#gh-light-mode-only" />
+</a>
+<a herf="https://github.com/CodaChan#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodaChan&layout=compact&langs_count=8&include_all_commits=true&theme=dark#gh-dark-mode-only" />
+</a>
