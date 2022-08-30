@@ -4,9 +4,7 @@
 * 🕹 Game Designer (Tencent Institute of Games, Trainee, 2022)
 * 🎓 Software Engineering undergraduate at [SSPU](https://sspu.edu.cn/) (2019 - 2023)
 * 👨‍💻 C++ Favorite, Love Linux (Using macOS, CentOS, Windows)
-
 * 🌏 English by default, Studying Japanese
-
 
 <a href="https://github.com/CodaChan#gh-light-mode-only">
   <div><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,cmake,nodejs,vue,regex,md&theme=light#gh-light-mode-only"></div>
@@ -21,4 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodaChan&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" height="185px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodaChan&layout=compact&langs_count=8&include_all_commits=true&theme=dark#gh-dark-mode-only" height="185px">
 </a>
-
